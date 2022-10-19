@@ -2,5 +2,8 @@
 
 Android Jetpack Compose Camp Resources : 
 
-https://github.com/NishchayDixit/Jetpack-Compose-Application-1.git
+1) https://github.com/NishchayDixit/Jetpack-Compose-Application-1
 
+2) https://github.com/NishchayDixit/Jetpack-Compose-Application-2
+
+3) https://github.com/NishchayDixit/Jetpack-Compose-Application-3
